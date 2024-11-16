@@ -1,7 +1,3 @@
-Here’s your updated **README.md**:
-
----
-
 # 👋 Hi, I’m @hassanjavedxoxo
 **Full Stack Software Engineer**  
 
